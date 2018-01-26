@@ -118,7 +118,6 @@
                     </view>
                     <connections>
                         <outlet property="timerSettingPicker" destination="UGs-rf-Ipb" id="a3m-bd-MZM"/>
-                        <outlet property="timerSettingpicker" destination="UGs-rf-Ipb" id="ddK-uI-ipb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fAB-6J-9jV" userLabel="First Responder" sceneMemberID="firstResponder"/>
